@@ -129,6 +129,38 @@ body{
     color: rgb(100, 100, 100);
     text-align: justify;
 }
+#update-section p{
+    text-align: center;
+    width: 50%;
+    margin-left: 310px;
+}
+.form-section {
+    width: 50%;
+    background: #f9e0d9;
+    margin: auto;
+    padding: 50px;
+    margin-top: 30px;
+}
+form {
+    padding: 20px;
+    /* width: 30%; */
+    margin: auto;
+    text-align: center;
+}
+
+input[type="Email"] {
+    padding: 8px 20px;
+    border: none;
+}
+
+.form-section button {
+    padding: 8px;
+    background-color: #f35a5a;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
 footer{
     background-color: rgb(16, 16, 24);
     padding: 50px;
