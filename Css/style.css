@@ -136,14 +136,13 @@ body{
 }
 .form-section {
     width: 50%;
-    background: #f9e0d9;
+    background: #ffe2e2;
     margin: auto;
     padding: 50px;
     margin-top: 30px;
 }
 form {
     padding: 20px;
-    /* width: 30%; */
     margin: auto;
     text-align: center;
 }
